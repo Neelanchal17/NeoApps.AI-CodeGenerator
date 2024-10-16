@@ -1,5 +1,8 @@
 <p align="center">
-    <img src="https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator/blob/main/logo.png" alt="NeoApps.AI Logo" width="500">
+    <div style = 'background-color: white;'>
+        <img src="https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator/blob/main/logo.png" alt="NeoApps.AI Logo" width="500">
+    </div>
+    
 </p>
 
 # NeoApps.AI- Code Generator
