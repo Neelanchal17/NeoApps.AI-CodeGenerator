@@ -1,14 +1,8 @@
-<style>
-.logo {
-  background-color: white;
-  padding: 10px;
 
-}
-</style>
 
 <p align="center">
     <div class = 'logo'>
-    <img style='margin: 5px;'src="https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator/blob/main/logo.png" alt="NeoApps.AI Logo" width="500">
+    <img style='margin: 5px; background-color: white;'src="https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator/blob/main/logo.png" alt="NeoApps.AI Logo" width="500">
     </div>
     
 </p>
